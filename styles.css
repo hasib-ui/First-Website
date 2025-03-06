@@ -18,128 +18,128 @@ body{
 
 #pbox {
     background-color: azure;
-    border: 0.5% solid rgb(49, 240, 59);
-    width: 86%;
-    height: 500%;
-    margin: 6.5%;
-    border-radius: 2%;
+    border: 0.5vw solid rgb(49, 240, 59);
+    width: 86vw;
+    height: 500vw;
+    margin: 6.5vw;
+    border-radius: 2vw;
     position: absolute;
 
 }
 
 #head {
-    border: 0.4% solid rgb(150, 0, 107);
-    width: 70%;
-    height: 12%;
+    border: 0.4vw solid rgb(150, 0, 107);
+    width: 70vw;
+    height: 12vw;
     background-color: rgb(240, 86, 10);
-    border-radius: 2%;
+    border-radius: 2vw;
     position: absolute;
-    left: 7.5%;
-    top: 3%;
-    padding: 1%;
+    left: 7.5vw;
+    top: 3vw;
+    padding: 1vw;
 }
 
 h1 {
-    font-size: 3%;
+    font-size: 3vw;
     text-align: center;
-    margin-bottom: 1%;
+    margin-bottom: 1vw;
 
 
 }
 
 #p1 {
-    font-size: 2%;
+    font-size: 2vw;
     text-align: center;
     font-weight: bold;
 }
 
 
 .LBox {
-    border: 0.3% solid black;
-    width: 25%;
-    height: 38%;
+    border: 0.3vw solid black;
+    width: 25vw;
+    height: 38vw;
     background-color: aliceblue;
-    border-radius: 2%;
-    box-shadow: 0.5% 0.5% 2% rgba(0, 0, 0, 0.2);
+    border-radius: 2vw;
+    box-shadow: 0.5vw 0.5vw 2vw rgba(0, 0, 0, 0.2);
     position: absolute;
-    top: 30%;
-    left: 10%;
+    top: 30vw;
+    left: 10vw;
     
 
 
 }
 
 .LBox:hover {
-    border: 0.3% solid rgb(15, 210, 35);
+    border: 0.3vw solid rgb(15, 210, 35);
 
 
 }
 
 .RBox {
-    border: 0.3% solid black;
-    width: 25%;
-    height: 38%;
+    border: 0.3vw solid black;
+    width: 25vw;
+    height: 38vw;
     background-color: aliceblue;
-    border-radius: 2%;
-    box-shadow: 0.5% 0.5% 1% rgba(0, 0, 0, 0.2);
+    border-radius: 2vw;
+    box-shadow: 0.5vw 0.5vw 1vw rgba(0, 0, 0, 0.2);
     position: absolute;
-    top: 30%;
-    right: 10%;
+    top: 30vw;
+    right: 10vw;
     
 
 }
 
 .RBox:hover {
-    border: 0.3% solid rgb(15, 210, 35);
+    border: 0.3vw solid rgb(15, 210, 35);
 
 
 }
 
 .h2 {
     text-align: center;
-    font-size: 2%;
-    padding: 1%;
+    font-size: 2vw;
+    padding: 1vw;
 }
 
 .img {
-    width: 23%;
-    margin: 01%;
+    width: 23vw;
+    margin: 01vw;
     
 }
 
 .p {
-    font-size: 1.2%;
+    font-size: 1.2vw;
 
-    margin: 1%;
-     border: 0.02% solid black;
-     width: 20% ;
-     height:8% ;
-     border-radius: 1%;
+    margin: 1vw;
+     border: 0.02vw solid black;
+     width: 20vw ;
+     height:8vw ;
+     border-radius: 1vw;
      
      overflow: hidden;
      text-overflow: ellipsis;
      background-color: #fff;
-     padding: 1%;
+     padding: 1vw;
 }
 .p:hover { overflow: auto;
-    border: 0.02% solid rgb(15, 210, 35);
+    border: 0.02vw solid rgb(15, 210, 35);
 }
 
 .logo {
-    width: 8%;
+    width: 8vw;
 }
 
 .logolink {
      display: block;  /* logo link is inline vlock  */
-    margin-left: 8%;
-    margin-top: %;
+    margin-left: 8vw;
+    margin-top: vw;
   
 }
 #box3{
     position: absolute;
-    top: 75%;
+    top: 75vw;
 }
 #box4{
     position: absolute;
-    top: 75%;
+    top: 75vw;
 }
